@@ -65,7 +65,7 @@ I build **scalable web, mobile, and desktop applications** that combine clean ar
 ---
 
 ### 📫 Let’s Connect  
-- **Portfolio:** [anashisham.netlify.app](https://anashisham.vercel.app/)  
+- **Portfolio:** [anashisham.vercel.app](https://anashisham.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/anas-hisham-dev](https://www.linkedin.com/in/anas-hisham-dev)  
 - **Email:** anashisham.dev@gmail.com  
 
