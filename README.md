@@ -38,14 +38,11 @@ I build **scalable web, mobile, and desktop applications** that combine clean ar
 - Developed **backend services** for user management, orders, and product data persistence.  
   
 
-#### [Backend API for Role-Based Management System](https://github.com/Anas-hisham/Full-Stack)  
+#### [Coffee Beans App for Coffee Shop](https://github.com/Anas-hisham/Coffee_Beans)  
 *Secure backend API with role-based access control*  
-- Implemented **secure user registration and login** with encrypted passwords using **Bcrypt**.  
-- Integrated **JWT-based authentication** with role-based access control (**Admin/User roles**).  
-- Developed **admin-only CRUD operations** for managing courses.  
-- Built **protected routes** using middleware to ensure secure access.  
-- Applied **input validation** and **custom error handling** for robust API responses.  
-- Designed a **clean, modular code architecture** using controllers, routers, and middleware for scalability.  
+- Full-stack app with authentication, orders, payments, rewards, reviews. 
+- Applied SOLID principles and scalable folder structure for maintainability 
+- Designed modern UI/UX in Figma and implemented it in React Native + Node.js.
 
 #### [Architect Portfolio](https://mohamedkhaled-architect.vercel.app/)  
 *A dynamic, editable portfolio website for architects*  
