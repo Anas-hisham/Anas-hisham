@@ -28,7 +28,7 @@ I build **scalable web, mobile, and desktop applications** that combine clean ar
 - Built following **SOLID principles** and **clean code architecture** for scalability and maintainability.  
 
 
-#### [Full-Stack E-Commerce App](https://anas-hisham.github.io/Crystal-Power-Investment/)  
+#### [Full-Stack E-Commerce App](https://github.com/Anas-hisham/Crystal-Power-Investment)  
 *Responsive e-commerce platform with a mobile companion app*  
 - Developed a **full-stack e-commerce platform** using **React/Next.js (web)** and **React Native (mobile)**.  
 - Implemented **Stripe integration** for secure online payments.  
