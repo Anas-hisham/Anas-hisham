@@ -16,7 +16,7 @@ I also work in **B2B sales at Amazon Business**, which sharpens how I think abou
 
 ### 🚧 Currently Building
 
-#### [MiniCato](https://github.com/Anas-hisham/Minicato)  
+#### [MiniCato](https://github.com/Anas-hisham/almostashar)  
 *Legal services platform connecting clients with lawyers (graduation project)*  
 `Next.js · TypeScript · Redux Toolkit · Zod · Tailwind`  
 - I own the **front-end architecture** of a three-role platform: requests, offers, case tracking, escrow payments and chat.  
