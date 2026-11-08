@@ -56,15 +56,8 @@ I also work in **B2B sales at Amazon Business**, which sharpens how I think abou
 `React Native · Node.js · Figma`  
 - Authentication, orders, payments, rewards and reviews, with UI/UX designed in Figma on a scalable folder structure.  
 
-#### [Architect Portfolio](https://mohamedkhaled-architect.vercel.app/)  
-*A dynamic, editable portfolio website for architects*  
-- **Modern UI**, editable gallery, fully responsive design  
-
 #### [NFT Marketplace App](https://github.com/Anas-hisham/NFT_MarketPlace)  
 *React Native marketplace with animations and elegant design*  
-
-#### [Movie Clone Website](https://anas-hisham-movie.netlify.app/)  
-*A dynamic movie app with **real-time API integration** and modern UI*  
 
 ---
 
